@@ -1,1 +1,3 @@
-<?php echo "bonjours samy comment tu vas ?" ?>
+<?php echo "bonjours JEREMY comment tu vas ?" ?>
+
+NIQUES BIEN TA RACE
