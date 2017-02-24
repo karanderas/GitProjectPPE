@@ -1,0 +1,1 @@
+<?php echo "bonjours samy comment tu vas ?" ?>
